@@ -16,6 +16,8 @@ Custom Australian state and territory registration plate images for the Tesla Pa
 | `nsw_standard.png` | Yellow — "NEW SOUTH WALES" |
 | `nsw_premium_white.png` | White/chrome — "NEW SOUTH WALES" |
 | `nsw_premium_black.png` | Black — "NEW SOUTH WALES" |
+| `nsw_euro_white.png` | Euro slimline white — NSW badge with state flag |
+| `nsw_euro_black.png` | Euro slimline black — NSW badge with state flag |
 
 ### Northern Territory
 | File | Style |
@@ -72,6 +74,8 @@ USB drive root
     ├── nsw_standard.png
     ├── nsw_premium_white.png
     ├── nsw_premium_black.png
+    ├── nsw_euro_white.png
+    ├── nsw_euro_black.png
     ├── nt_standard.png
     ├── qld_standard.png
     ├── qld_premium_white.png
